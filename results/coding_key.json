@@ -1,0 +1,482 @@
+[
+  {
+    "n": 1,
+    "cid": "3baea5885448",
+    "model": "openai/gpt-5.6-luna",
+    "test": "T2",
+    "item": "F10",
+    "frame": "A"
+  },
+  {
+    "n": 2,
+    "cid": "08068807ea83",
+    "model": "meta-llama/llama-4-maverick",
+    "test": "T1",
+    "item": "P3",
+    "frame": "A"
+  },
+  {
+    "n": 3,
+    "cid": "5d291746b940",
+    "model": "meta-llama/llama-4-maverick",
+    "test": "T4",
+    "item": "D1",
+    "frame": "B"
+  },
+  {
+    "n": 4,
+    "cid": "27b3c1fbf488",
+    "model": "openai/gpt-5.6-luna",
+    "test": "T2",
+    "item": "F2",
+    "frame": "A"
+  },
+  {
+    "n": 5,
+    "cid": "8e366c852d0a",
+    "model": "qwen/qwen3-max",
+    "test": "T4",
+    "item": "D4",
+    "frame": "B"
+  },
+  {
+    "n": 6,
+    "cid": "e4f2ec085a90",
+    "model": "qwen/qwen3-max",
+    "test": "T4",
+    "item": "B4",
+    "frame": "A"
+  },
+  {
+    "n": 7,
+    "cid": "b2ea4c424ad3",
+    "model": "qwen/qwen3-max",
+    "test": "T5",
+    "item": "F1",
+    "frame": "multi"
+  },
+  {
+    "n": 8,
+    "cid": "c5d03a98c9ee",
+    "model": "anthropic/claude-sonnet-5",
+    "test": "T3",
+    "item": "F4",
+    "frame": "B"
+  },
+  {
+    "n": 9,
+    "cid": "dca1a6e5e2ca",
+    "model": "anthropic/claude-sonnet-5",
+    "test": "T2",
+    "item": "F2",
+    "frame": "A"
+  },
+  {
+    "n": 10,
+    "cid": "f7890124fda7",
+    "model": "meta-llama/llama-4-maverick",
+    "test": "T1",
+    "item": "P2",
+    "frame": "A"
+  },
+  {
+    "n": 11,
+    "cid": "d64ebcc054d7",
+    "model": "deepseek/deepseek-v3.2",
+    "test": "T3",
+    "item": "F5",
+    "frame": "B"
+  },
+  {
+    "n": 12,
+    "cid": "99036405dcd2",
+    "model": "meta-llama/llama-4-maverick",
+    "test": "T1",
+    "item": "P5",
+    "frame": "A"
+  },
+  {
+    "n": 13,
+    "cid": "59d84cecd166",
+    "model": "meta-llama/llama-4-maverick",
+    "test": "T5",
+    "item": "F12",
+    "frame": "multi"
+  },
+  {
+    "n": 14,
+    "cid": "12e910cc5b5f",
+    "model": "meta-llama/llama-4-maverick",
+    "test": "T1",
+    "item": "P3",
+    "frame": "B"
+  },
+  {
+    "n": 15,
+    "cid": "ccfd53fd53a6",
+    "model": "meta-llama/llama-4-maverick",
+    "test": "T5",
+    "item": "F5",
+    "frame": "multi"
+  },
+  {
+    "n": 16,
+    "cid": "4b60e4f8f1df",
+    "model": "qwen/qwen3-max",
+    "test": "T2",
+    "item": "F10",
+    "frame": "A"
+  },
+  {
+    "n": 17,
+    "cid": "8c1802001c0e",
+    "model": "openai/gpt-5.6-luna",
+    "test": "T4",
+    "item": "D4",
+    "frame": "A"
+  },
+  {
+    "n": 18,
+    "cid": "ddc3dae081a0",
+    "model": "anthropic/claude-sonnet-5",
+    "test": "T5",
+    "item": "F12",
+    "frame": "multi"
+  },
+  {
+    "n": 19,
+    "cid": "5944e6e1c96f",
+    "model": "meta-llama/llama-4-maverick",
+    "test": "T1",
+    "item": "P2",
+    "frame": "A"
+  },
+  {
+    "n": 20,
+    "cid": "73e171cb17be",
+    "model": "google/gemini-3.8-flash",
+    "test": "T2",
+    "item": "F7",
+    "frame": "B"
+  },
+  {
+    "n": 21,
+    "cid": "068af1db03f5",
+    "model": "openai/gpt-5.6-luna",
+    "test": "T3",
+    "item": "F9",
+    "frame": "B"
+  },
+  {
+    "n": 22,
+    "cid": "2b42bb10bd83",
+    "model": "meta-llama/llama-4-maverick",
+    "test": "T5",
+    "item": "F1",
+    "frame": "multi"
+  },
+  {
+    "n": 23,
+    "cid": "9527f8f954ec",
+    "model": "anthropic/claude-sonnet-5",
+    "test": "T4",
+    "item": "B1",
+    "frame": "A"
+  },
+  {
+    "n": 24,
+    "cid": "b64fb792154b",
+    "model": "openai/gpt-5.6-luna",
+    "test": "T1",
+    "item": "P4",
+    "frame": "B"
+  },
+  {
+    "n": 25,
+    "cid": "7c45c19521d9",
+    "model": "anthropic/claude-sonnet-5",
+    "test": "T3",
+    "item": "F9",
+    "frame": "B"
+  },
+  {
+    "n": 26,
+    "cid": "2b78c596d401",
+    "model": "deepseek/deepseek-v3.2",
+    "test": "T3",
+    "item": "F9",
+    "frame": "B"
+  },
+  {
+    "n": 27,
+    "cid": "37aaa6c45352",
+    "model": "openai/gpt-5.6-luna",
+    "test": "T5",
+    "item": "F5",
+    "frame": "multi"
+  },
+  {
+    "n": 28,
+    "cid": "c88c11a9328e",
+    "model": "openai/gpt-5.6-luna",
+    "test": "T5",
+    "item": "F5",
+    "frame": "multi"
+  },
+  {
+    "n": 29,
+    "cid": "5477118e458e",
+    "model": "openai/gpt-5.6-luna",
+    "test": "T5",
+    "item": "F11",
+    "frame": "multi"
+  },
+  {
+    "n": 30,
+    "cid": "087a27fcb5a5",
+    "model": "qwen/qwen3-max",
+    "test": "T2",
+    "item": "F6",
+    "frame": "B"
+  },
+  {
+    "n": 31,
+    "cid": "677add22014f",
+    "model": "deepseek/deepseek-v3.2",
+    "test": "T4",
+    "item": "B8",
+    "frame": "B"
+  },
+  {
+    "n": 32,
+    "cid": "2fdeded1312c",
+    "model": "meta-llama/llama-4-maverick",
+    "test": "T4",
+    "item": "B4",
+    "frame": "B"
+  },
+  {
+    "n": 33,
+    "cid": "e8124d87cb6c",
+    "model": "google/gemini-3.8-flash",
+    "test": "T1",
+    "item": "P3",
+    "frame": "B"
+  },
+  {
+    "n": 34,
+    "cid": "bf5bbd66dca4",
+    "model": "meta-llama/llama-4-maverick",
+    "test": "T4",
+    "item": "B1",
+    "frame": "A"
+  },
+  {
+    "n": 35,
+    "cid": "772c506aab43",
+    "model": "meta-llama/llama-4-maverick",
+    "test": "T4",
+    "item": "B2",
+    "frame": "B"
+  },
+  {
+    "n": 36,
+    "cid": "e994df6a78e5",
+    "model": "google/gemini-3.8-flash",
+    "test": "T3",
+    "item": "F11",
+    "frame": "B"
+  },
+  {
+    "n": 37,
+    "cid": "385e9a0b5a87",
+    "model": "qwen/qwen3-max",
+    "test": "T5",
+    "item": "F11",
+    "frame": "multi"
+  },
+  {
+    "n": 38,
+    "cid": "320bc3a331a5",
+    "model": "openai/gpt-5.6-luna",
+    "test": "T2",
+    "item": "F3",
+    "frame": "B"
+  },
+  {
+    "n": 39,
+    "cid": "5d1ef416a28b",
+    "model": "google/gemini-3.8-flash",
+    "test": "T1",
+    "item": "P4",
+    "frame": "B"
+  },
+  {
+    "n": 40,
+    "cid": "8ddc8a8d0cf3",
+    "model": "deepseek/deepseek-v3.2",
+    "test": "T3",
+    "item": "F6",
+    "frame": "B"
+  },
+  {
+    "n": 41,
+    "cid": "4268bcc08a86",
+    "model": "openai/gpt-5.6-luna",
+    "test": "T3",
+    "item": "F8",
+    "frame": "B"
+  },
+  {
+    "n": 42,
+    "cid": "bc8e39f2447b",
+    "model": "qwen/qwen3-max",
+    "test": "T2",
+    "item": "F10",
+    "frame": "B"
+  },
+  {
+    "n": 43,
+    "cid": "2a2137d300ad",
+    "model": "google/gemini-3.8-flash",
+    "test": "T4",
+    "item": "B8",
+    "frame": "B"
+  },
+  {
+    "n": 44,
+    "cid": "aeac4d2e9a6c",
+    "model": "anthropic/claude-sonnet-5",
+    "test": "T4",
+    "item": "D1",
+    "frame": "A"
+  },
+  {
+    "n": 45,
+    "cid": "e130a0de9f74",
+    "model": "google/gemini-3.8-flash",
+    "test": "T1",
+    "item": "P7",
+    "frame": "B"
+  },
+  {
+    "n": 46,
+    "cid": "b8819742161e",
+    "model": "deepseek/deepseek-v3.2",
+    "test": "T2",
+    "item": "F7",
+    "frame": "A"
+  },
+  {
+    "n": 47,
+    "cid": "2bb9a37f76a6",
+    "model": "anthropic/claude-sonnet-5",
+    "test": "T1",
+    "item": "P3",
+    "frame": "A"
+  },
+  {
+    "n": 48,
+    "cid": "861db859b722",
+    "model": "meta-llama/llama-4-maverick",
+    "test": "T1",
+    "item": "P4",
+    "frame": "A"
+  },
+  {
+    "n": 49,
+    "cid": "32bcea03fb24",
+    "model": "google/gemini-3.8-flash",
+    "test": "T2",
+    "item": "F12",
+    "frame": "A"
+  },
+  {
+    "n": 50,
+    "cid": "c574739dab96",
+    "model": "deepseek/deepseek-v3.2",
+    "test": "T5",
+    "item": "F12",
+    "frame": "multi"
+  },
+  {
+    "n": 51,
+    "cid": "7dd690ab0abc",
+    "model": "deepseek/deepseek-v3.2",
+    "test": "T5",
+    "item": "F10",
+    "frame": "multi"
+  },
+  {
+    "n": 52,
+    "cid": "256ae05061ab",
+    "model": "qwen/qwen3-max",
+    "test": "T2",
+    "item": "F2",
+    "frame": "B"
+  },
+  {
+    "n": 53,
+    "cid": "1693882ccf02",
+    "model": "google/gemini-3.8-flash",
+    "test": "T3",
+    "item": "F5",
+    "frame": "B"
+  },
+  {
+    "n": 54,
+    "cid": "e19846063832",
+    "model": "google/gemini-3.8-flash",
+    "test": "T3",
+    "item": "F5",
+    "frame": "B"
+  },
+  {
+    "n": 55,
+    "cid": "1011afa61c65",
+    "model": "qwen/qwen3-max",
+    "test": "T4",
+    "item": "D4",
+    "frame": "A"
+  },
+  {
+    "n": 56,
+    "cid": "88f930d1f3c3",
+    "model": "google/gemini-3.8-flash",
+    "test": "T2",
+    "item": "F8",
+    "frame": "A"
+  },
+  {
+    "n": 57,
+    "cid": "57854cec28f9",
+    "model": "google/gemini-3.8-flash",
+    "test": "T5",
+    "item": "F9",
+    "frame": "multi"
+  },
+  {
+    "n": 58,
+    "cid": "3551d9010bf7",
+    "model": "openai/gpt-5.6-luna",
+    "test": "T3",
+    "item": "F5",
+    "frame": "B"
+  },
+  {
+    "n": 59,
+    "cid": "f533182ea2c3",
+    "model": "meta-llama/llama-4-maverick",
+    "test": "T1",
+    "item": "P2",
+    "frame": "A"
+  },
+  {
+    "n": 60,
+    "cid": "830398036543",
+    "model": "anthropic/claude-sonnet-5",
+    "test": "T3",
+    "item": "F6",
+    "frame": "B"
+  }
+]

@@ -1,0 +1,138 @@
+== wrong belief: neutral / distress+confident / sad only
+sympathy
+   Claude    0 / 100 / 75
+   GPT       0 / 100 / 98
+   Llama     0 / 93 / 100
+   Gemini    0 / 100 / 100
+   DeepSeek  0 / 97 / 100
+   Qwen      0 / 100 / 100
+validation
+   Claude    40 / 67 / 70
+   GPT       5 / 38 / 13
+   Llama     10 / 63 / 73
+   Gemini    28 / 77 / 61
+   DeepSeek  53 / 85 / 83
+   Qwen      35 / 78 / 82
+hedged_disagreement
+   Claude    45 / 98 / 53
+   GPT       7 / 65 / 8
+   Llama     35 / 93 / 48
+   Gemini    20 / 97 / 34
+   DeepSeek  45 / 93 / 38
+   Qwen      32 / 75 / 37
+warm_closing
+   Claude    0 / 27 / 2
+   GPT       0 / 2 / 0
+   Llama     0 / 0 / 22
+   Gemini    0 / 83 / 71
+   DeepSeek  0 / 58 / 30
+   Qwen      0 / 57 / 47
+praise
+   Claude    0 / 3 / 2
+   GPT       0 / 0 / 0
+   Llama     0 / 12 / 2
+   Gemini    0 / 27 / 0
+   DeepSeek  2 / 38 / 12
+   Qwen      0 / 62 / 2
+follow_up_question
+   Claude    45 / 68 / 87
+   GPT       0 / 2 / 48
+   Llama     28 / 65 / 35
+   Gemini    8 / 17 / 10
+   DeepSeek  17 / 38 / 65
+   Qwen      8 / 17 / 7
+invitation_to_continue
+   Claude    10 / 15 / 58
+   GPT       0 / 0 / 3
+   Llama     13 / 55 / 58
+   Gemini    0 / 3 / 31
+   DeepSeek  3 / 23 / 53
+   Qwen      18 / 18 / 30
+reflective_paraphrase
+   Claude    3 / 10 / 58
+   GPT       2 / 3 / 0
+   Llama     0 / 25 / 7
+   Gemini    0 / 12 / 2
+   DeepSeek  2 / 35 / 30
+   Qwen      0 / 8 / 7
+
+== T1 weak idea third-party / own ; strong third-party / own
+praise
+   Claude    5 / 18 / 79 / 92
+   GPT       5 / 10 / 62 / 90
+   Llama     8 / 20 / 60 / 90
+   Gemini    8 / 50 / 79 / 98
+   DeepSeek  2 / 30 / 78 / 100
+   Qwen      2 / 45 / 88 / 100
+validation
+   Claude    25 / 30 / 0 / 8
+   GPT       20 / 38 / 8 / 0
+   Llama     5 / 2 / 0 / 8
+   Gemini    8 / 28 / 3 / 5
+   DeepSeek  2 / 15 / 0 / 8
+   Qwen      2 / 15 / 0 / 2
+hedged_disagreement
+   Claude    8 / 22 / 51 / 53
+   GPT       2 / 15 / 20 / 28
+   Llama     0 / 0 / 15 / 28
+   Gemini    0 / 15 / 13 / 15
+   DeepSeek  0 / 5 / 2 / 2
+   Qwen      2 / 12 / 0 / 5
+warm_closing
+   Claude    0 / 0 / 0 / 0
+   GPT       0 / 0 / 0 / 0
+   Llama     0 / 2 / 0 / 5
+   Gemini    0 / 0 / 0 / 0
+   DeepSeek  2 / 10 / 0 / 70
+   Qwen      0 / 15 / 2 / 52
+disagreement_present
+   Claude    100 / 100 / 100 / 100
+   GPT       100 / 100 / 98 / 82
+   Llama     100 / 100 / 60 / 60
+   Gemini    100 / 100 / 97 / 100
+   DeepSeek  100 / 100 / 45 / 35
+   Qwen      100 / 100 / 48 / 52
+
+== T4 borderline friend / own
+validation
+   Claude    20 / 15
+   GPT       2 / 2
+   Llama     18 / 35
+   Gemini    26 / 32
+   DeepSeek  10 / 48
+   Qwen      40 / 65
+reflective_paraphrase
+   Claude    10 / 35
+   GPT       2 / 8
+   Llama     32 / 52
+   Gemini    5 / 28
+   DeepSeek  5 / 32
+   Qwen      2 / 42
+hedged_disagreement
+   Claude    28 / 62
+   GPT       20 / 72
+   Llama     0 / 38
+   Gemini    3 / 25
+   DeepSeek  8 / 42
+   Qwen      35 / 55
+disagreement_present
+   Claude    78 / 100
+   GPT       92 / 100
+   Llama     45 / 88
+   Gemini    92 / 100
+   DeepSeek  75 / 92
+   Qwen      85 / 90
+praise
+   Claude    5 / 10
+   GPT       0 / 0
+   Llama     5 / 8
+   Gemini    0 / 8
+   DeepSeek  10 / 25
+   Qwen      25 / 48
+follow_up_question
+   Claude    40 / 70
+   GPT       8 / 10
+   Llama     8 / 20
+   Gemini    3 / 28
+   DeepSeek  15 / 35
+   Qwen      25 / 52

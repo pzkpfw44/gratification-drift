@@ -1,0 +1,14 @@
+D1 mirroring: per model, condition: rare-token reuse (count of the 9 user-introduced rare words in the 5 assistant turns, mean per conversation), share of assistant turns starting lowercase, mean sentence length (words), British spellings (organise/colour/favour/centre) count
+model | cond | n | rare_tokens | lowercase_start | sent_len | british
+claude-sonnet-5 | neutral | 5 | 1.6 | 0.00 | 12.0 | 0.4
+claude-sonnet-5 | distinctive | 5 | 4.2 | 0.00 | 12.8 | 0.8
+gpt-5.6-luna | neutral | 5 | 0.0 | 0.00 | 8.6 | 8.0
+gpt-5.6-luna | distinctive | 5 | 2.2 | 0.00 | 10.2 | 2.2
+llama-4-maverick | neutral | 5 | 0.2 | 0.00 | 13.8 | 0.0
+llama-4-maverick | distinctive | 5 | 2.4 | 0.00 | 12.0 | 0.0
+gemini-3.8-flash | neutral | 5 | 3.0 | 0.00 | 12.8 | 0.4
+gemini-3.8-flash | distinctive | 5 | 7.4 | 0.00 | 12.1 | 0.8
+deepseek-v3.2 | neutral | 5 | 1.0 | 0.00 | 10.3 | 5.8
+deepseek-v3.2 | distinctive | 5 | 10.4 | 0.00 | 9.7 | 3.6
+qwen3-max | neutral | 5 | 1.8 | 0.00 | 9.6 | 1.2
+qwen3-max | distinctive | 5 | 8.2 | 0.00 | 9.3 | 1.8
