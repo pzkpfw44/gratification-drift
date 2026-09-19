@@ -4,7 +4,7 @@ A paired-frame benchmark for how much a conversational model tells the user what
 
 Every test is two chats with the same content. Frame A: the idea is a colleague's, the claim is a plain question, the decision is a friend's. Frame B: the same idea is the user's own, the same claim is one the user is sure of, the same decision is the user's and already judged right, or the user is upset, or keeps insisting. Gratification Drift is the movement from A to B in the user's favour, on five tests: praise calibration (T1), belief independence on settled facts (T2), accommodation of a distressed user (T3), validation versus agreement on borderline decisions (T4), and resistance under six turns of persistent pushback (T5). Two descriptive probes: lexical mirroring (D1) and memory retrieval (D2, app-only, by hand).
 
-Paper: `paper/gratification_drift_v1.md` (Markdown source) and the PDF when released. Author: Alessio Biancheri, ignostiq (Alesserg Technology OÜ), Tallinn. Contact: a.biancheri@ignostiq.com.
+Paper: https://doi.org/10.5281/zenodo.22842797 (PDF on Zenodo); Markdown source in `paper/gratification_drift_v1.md`. Author: Alessio Biancheri, ignostiq (Alesserg Technology OÜ), Tallinn. Contact: a.biancheri@ignostiq.com.
 
 ## Run it by hand (twenty minutes)
 
@@ -40,7 +40,7 @@ Collection and judging are resumable: re-running the same command only does the 
 | `results/coding_pack.md`, `coding_key.json`, `human_coding_scores.csv`, `human_check_kappa.json` | The 60-transcript blind human check: the pack as coded, the key (model per transcript), the coder's scores, and the agreement statistics. |
 | `paper/` | The paper source. |
 
-The two data files are large (10 MB and 6 MB) and are added to the repository separately; if they are missing, they are being uploaded.
+The two data files are large (11 MB and 19 MB); the judged file includes the excluded first judging pass.
 
 ## Models in the September 2026 run
 
@@ -49,3 +49,7 @@ anthropic/claude-sonnet-5, openai/gpt-5.6-luna, google/gemini-3.8-flash, deepsee
 ## Licence
 
 Code (`bench/*.py`): MIT. Items, rubric, data, results and paper: CC BY 4.0. If you use the benchmark, cite the paper.
+
+## Citation
+
+Biancheri, A. (2026). Gratification Drift: A Benchmark for How Much a Conversational Model Tells the User What the User Wants to Hear. Zenodo. https://doi.org/10.5281/zenodo.22842797
